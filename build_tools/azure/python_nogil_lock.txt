@@ -45,7 +45,7 @@ pluggy==1.2.0
     # via pytest
 pyparsing==3.1.1
     # via matplotlib
-pytest==7.4.0
+pytest==9.0.3
     # via
     #   -r /scikit-learn/build_tools/azure/python_nogil_requirements.txt
     #   pytest-xdist
